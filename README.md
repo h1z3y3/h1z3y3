@@ -1,5 +1,5 @@
 <div align=center>
-  <span style="font-size: 60px;">WELCOME!</span>
+  <h1>WELCOME!</h1>
   <br/>
 <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" />
 </div>
