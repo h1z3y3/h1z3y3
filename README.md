@@ -4,3 +4,7 @@
   <br/>
 <img src="https://media.giphy.com/media/SKGo6OYe24EBG/giphy.gif" />
 </div>
+
+<div>
+  <figure><embed src="https://wakatime.com/share/@64b79594-9c28-4802-b4f6-6e9f26d27618/78a2de3d-6a42-4d30-9fb5-5f6735225e97.svg"></embed></figure>
+</div>
